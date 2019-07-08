@@ -38,8 +38,7 @@ class INI_Test(unittest.TestCase):
         self.assertEqual(self.ini.has_properity("author","email"),True)
         self.assertEqual(self.ini.has_properity("author","hhhhhh"),False)
         self.assertEqual(self.ini.has_properity("ggggg","hhhhh"),False)
-        self.assertEqual(self.ini.has_section("author"),True)
-        self.assertEqual(self.ini.has_section("hhhhhh"),False)
+      
 
 
 if __name__ == '__main__':
