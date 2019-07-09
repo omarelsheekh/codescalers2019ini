@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/omarelsheekh/codescalers2019ini.svg?branch=master)](https://travis-ci.com/omarelsheekh/codescalers2019ini)
+
 # codescalers2019ini
 This project convert INI string to a dect to obtain properties from it
 
